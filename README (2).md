@@ -1,7 +1,6 @@
 <h1>Members:</h1>
-<h3>1) Atharva Patil</h3>
 <!-- <br> -->
-<h3>2) Sahil Kedare</h3>
+<h3>2) Sandeep yalla</h3>
 
 
 <h1>ABOUT PROJECT:</h1>
