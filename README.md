@@ -129,15 +129,9 @@ It is used to change the brightness of an image. It takes the pixels of the inpu
 <br>
 <br>
 
-<h3>4. About Us Page :</h3>
-
-![GitHub Logo](/images/Project/Team1.jpg)
 <br>
 <br>
 
-<h3>5. Contact Us Page :</h3>
-
-![GitHub Logo](/images/Project/Contact.jpg)
 <br>
 <br>
 
