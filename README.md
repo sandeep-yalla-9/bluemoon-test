@@ -135,7 +135,7 @@ It is used to change the brightness of an image. It takes the pixels of the inpu
 <br>
 <br>
 
-<h1>Thank You:grinning:
+<h1>Thank You
  
 
 
