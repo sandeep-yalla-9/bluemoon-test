@@ -1,6 +1,6 @@
 <h1>Members:</h1>
 <!-- <br> -->
-<h3> Sandeep yalla</h3>
+<h3>Sandeep yalla</h3>
 
 
 <h1>ABOUT PROJECT:</h1>
